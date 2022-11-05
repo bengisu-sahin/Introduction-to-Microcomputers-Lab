@@ -3,3 +3,4 @@ This repository is opened for homework and answers for the microcomputers lab co
 
 We used MPLAB X IDE v5.20 for our projects and PIC16F877A microcomputer.
 
+There are lab assignments and codes in each lab folder.
